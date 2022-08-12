@@ -2,10 +2,24 @@
 
 ## Description
 
-The project was to refactor the codebase for a marketing agency that meets accessibility standards, so that the website is optimized for search engines. The reason why was so that I could get a better understanding of improving existing code without changing what it does. The solved problem will enable the marketing agency to potentially see more traffic to the site. I learned many things, but commenting in the CSS sheet was huge for me. While describing what I see, then I'll be able to create easier and faster.
+AS A coding boot camp student
+I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
+SO THAT I can gauge my progress compared to my peers
+Acceptance Criteria
+GIVEN I am taking a code quiz
+WHEN I click the start button
+THEN a timer starts and I am presented with a question
+WHEN I answer a question
+THEN I am presented with another question
+WHEN I answer a question incorrectly
+THEN time is subtracted from the clock
+WHEN all questions are answered or the timer reaches 0
+THEN the game is over
+WHEN the game is over
+THEN I can save my initials and score
 
 ## Table of Contents
-
+- [Preview](#preview)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
