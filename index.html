@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>QuizChallenge</title>
+    <link rel="stylesheet" href="./assets/css/style.css" />
+  </head>
+  <body>
+    <main>
+      <nav>
+        <a href="highscores.html">View Highscores</a>
+        <p>Timer: 0</p>
+      </nav>
+
+      <div id="start-screen">
+        <h1>Coding Quiz Challenge</h1>
+        <p>Test your programming knowledge with this amazing quiz.</p>
+        <button id="start-btn">Start Quiz</button>
+      </div>
+
+      <div id="game-play" class="hide">
+        <h1 id="question-title">Question Placeholder</h1>
+        <div id="answer-choices">
+          <button>option1</button>
+          <button>option2</button>
+          <button>option3</button>
+          <button>option4</button>
+        </div>
+      </div>
+
+      <div class="end-screen hide">
+        <h1>All done!</h1>
+        <p>Your score is: <span class="final-score"></span> .</p>
+        <label for="initial-input">Enter Initials: </label>
+        <input name="initial-input" type="text" id="user-initials" />
+        <button>Submit</button>
+      </div>
+    </main>
+    <script src="./assets/js/script.js"></script>
+  </body>
+</html>
