@@ -2,10 +2,7 @@
 
 ## Description
 
-AS A coding boot camp student
-I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
-SO THAT I can gauge my progress compared to my peers
-Acceptance Criteria
+I was  to take a timed quiz on JavaScript fundamentals that stores high scores so that I can gauge my progress compared to my peers.
 GIVEN I am taking a code quiz
 WHEN I click the start button
 THEN a timer starts and I am presented with a question
@@ -44,7 +41,10 @@ Collaborators included Shahid, Eric my instructor, Mike my TA and others in clas
 Third-party assets were acquired through OSU and BCS.
 
 HTML Tutorials used for this project all come from: https://www.w3schools.com/html/default.asp.
+
 README Tutorials and formatting used for this project come from: https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+
+JS Tutorials and formatting used for the project come from: https://www.w3schools.com/js/
 
 ## License
 
@@ -52,4 +52,4 @@ Not sure what OSU Bootcamp and our class uses here but I look forward to learnin
 
 ## Features
 
-Since we were "only" refactoring, I didn't add any features. That said, I was charged with using Semantic HTML Elements to help clean up existing code and to that end I added these tags: header, body, section, figure, main, article, and nav tags. I also added alt attributes to specifiy an alternate text for an image, if the image cannot be displayed.
+My features are very much lacking here. But see the above descriptions for which features were intended. 
