@@ -18,6 +18,9 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
 
+## Preview
+https://github.com/achillesthree/QuizChallenge/blob/main/QC%20Screenshot.PNG
+
 ## Table of Contents
 - [Preview](#preview)
 - [Installation](#installation)
