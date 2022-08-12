@@ -1,48 +1,38 @@
-QuizChallenge
-Description
-This project was to modify starter code to create an application that enables employees to generate random passwords based on criteria that they have selected. This app runs in the browser and features dynamically updated HTML and CSS powered by JavaScript code. It has a clean and polished, responsive user interface that adapts to multiple screen sizes.
+# <QuizChallenge>
 
-Table of Contents
-Installation
-Usage
-Credits
-License
-Features
-Installation
-This project can be viewed using the URL https://achillesthree.github.io/Random-Password-Generator-/ and by accessing my public GitHub https://github.com/achillesthree/Random-Password-Generator-
+## Description
 
-Usage
-Basic browser and usage for this application applies.
+The project was to refactor the codebase for a marketing agency that meets accessibility standards, so that the website is optimized for search engines. The reason why was so that I could get a better understanding of improving existing code without changing what it does. The solved problem will enable the marketing agency to potentially see more traffic to the site. I learned many things, but commenting in the CSS sheet was huge for me. While describing what I see, then I'll be able to create easier and faster.
 
-Credits
-Collaborators include: Shahid, Nick, Dimitra, Eric my instructor, Mike my TA and others in class for directional/inspirational help.
+## Table of Contents
 
-Third-party assets were acquired through OSU BCS.
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+- [Features](#license)
 
-HTML Tutorials used for this project source: https://www.w3schools.com/html/default.asp.
+## Installation
 
-CSS Tutorials used for this project source: https://www.w3schools.com/css/
+The project can be viewed using the URL https://achillesthree.github.io/HW-1/ or by accessing my public Git Hub https://github.com/achillesthree/HW-1
 
-JS Tutorials used for this project source: https://www.w3schools.com/js/default.asp
+## Usage
 
+Basic usage for this site/project applies.
+
+## Credits
+
+Collaborators included Shahid, Eric my instructor, Mike my TA and others in class for directional help.
+
+Third-party assets were acquired through OSU and BCS.
+
+HTML Tutorials used for this project all come from: https://www.w3schools.com/html/default.asp.
 README Tutorials and formatting used for this project come from: https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
-Random Password Generator Tutorials used for this project: https://www.geeksforgeeks.org/how-to-generate-a-random-password-using-javascript/
+## License
 
-License
-I'm not sure what OSU Bootcamp and our class uses here, but I look forward to learning more on this.
+Not sure what OSU Bootcamp and our class uses here but I look forward to learning more on this.
 
-Features
-This application features:
+## Features
 
-A button to generate a new, secure and random password.
-
-Presents user with a series of prompts for password criteria.
-
-The criteria includes password length min/max, and options for UC, LC, Numbers and Special Characters.
-
-The input is validated and at least one character type is selected.
-
-When all prompts are answered a password is generated using the selected critiria.
-
-And the password is displayed in the text area.
+Since we were "only" refactoring, I didn't add any features. That said, I was charged with using Semantic HTML Elements to help clean up existing code and to that end I added these tags: header, body, section, figure, main, article, and nav tags. I also added alt attributes to specifiy an alternate text for an image, if the image cannot be displayed.
