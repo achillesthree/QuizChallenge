@@ -28,7 +28,7 @@ THEN I can save my initials and score
 
 ## Installation
 
-The project can be viewed using the URL https://achillesthree.github.io/HW-1/ or by accessing my public Git Hub https://github.com/achillesthree/QuizChallenge
+The project can be viewed using the URL https://github.com/achillesthree/QuizChallenge or by accessing my public Git Hub https://github.com/achillesthree/QuizChallenge
 
 ## Usage
 
